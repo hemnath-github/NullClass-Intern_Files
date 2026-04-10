@@ -9,7 +9,7 @@ There are two csv data files :
 
 Data Cleaning Process :
 
-(*) Removing nan values from both datasets,
+(*) Removing na values from both datasets,
 
 (*) Converting Last Updated column into proper date format column,
 
