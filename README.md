@@ -2,10 +2,10 @@
 
 Google Playstore data analytics - python.
 
-There are two csv data files :
+There are two csv data files:
 
 (i) Apps.csv,  
-(ii) User_reviews.csv .
+(ii) User_reviews.csv
 
 Data Cleaning Process:
 
